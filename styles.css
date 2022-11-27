@@ -70,3 +70,7 @@ html {
 .text-alight-reset {
   text-align: initial;
 }
+
+.tech-section {
+  background-color: gainsboro;
+}
